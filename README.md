@@ -57,11 +57,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanka-ochaney13&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-ochaney13&layout=compact&theme=gruvbox&hide_border=true" height="160"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanka-ochaney13&theme=gruvbox&hide_border=true" />
