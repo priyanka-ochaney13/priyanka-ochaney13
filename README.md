@@ -7,7 +7,6 @@
 <p>
   <a href="mailto:priyanka.ochaney@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="http://www.linkedin.com/in/priyanka-ochaney-a14b40274"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/priyanka-ochaney13"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
   <a href="https://leetcode.com/u/priyanka-ochaney13/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
@@ -32,11 +31,14 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**SystemArcht**](https://github.com/priyanka-ochaney13/SystemArcht) | AWS architecture simulator — drag-and-drop, real-time latency + cost + bottleneck detection | React Flow, NextJS, FastAPI, AWS |
-| [**JobVault**](https://github.com/priyanka-ochaney13/JobVault) | RESTful job posting service — CRUD, keyword search, DB seeding | Spring Boot, PostgreSQL, Spring Data JPA |
-| [**PaperVault VESIT**](https://github.com/priyanka-ochaney13) | Role-based exam paper portal — students, faculty, admins scoped access | Spring Boot, JWT, RBAC |
 | [**RepoX**](https://github.com/priyanka-ochaney13/RepoX) | Auto-generates software docs from repo URLs using LLMs + tree-sitter code analysis | FastAPI, React, AWS Cognito, DynamoDB, OpenAI |
+| [**Quizz**](https://github.com/priyanka-ochaney13/quizz-sb) | REST API for quizzes with DTO-based answer protection, normalized schema, global exception handling | Spring Boot, Spring Data JPA, PostgreSQL, Lombok |
+| [**SystemArcht**](https://github.com/priyanka-ochaney13/SystemArcht) | AWS architecture simulator — drag-and-drop, real-time latency + cost + bottleneck detection | React Flow, Next.js, FastAPI, AWS |
 
+### 🏆 Hackathons
+
+**TenzorX AI Hackathon 2026 — Finalist**
+Built an end-to-end AI-powered loan onboarding system with a 9-agent multi-agent pipeline for real-time document verification, fraud detection, and automated credit decisioning via video KYC.
 ---
 
 
